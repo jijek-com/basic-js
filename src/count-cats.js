@@ -12,7 +12,7 @@
  * ]) => 3`
  *
  */
-function countCats(matrix ) {
+function countCats(matrix) {
   let count = 0;
 
   matrix.forEach(row => {
